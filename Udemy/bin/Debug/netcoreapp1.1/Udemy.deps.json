@@ -1,14 +1,29 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "02c24e0f9f1ca8adf71f9d2f15dca5f126f97f5c"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "udemy/1.0.0": {
+        "dependencies": {
+          "System.Net.Http": "4.3.2"
+        },
         "runtime": {
           "Udemy.dll": {}
+        }
+      },
+      "system.net.http/4.3.2": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.6/System.Net.Http.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Net.Http.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
         }
       }
     }
@@ -18,6 +33,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "system.net.http/4.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k0zGXfDyQzlhhgSri3TU3hPb2dGTjTWDr8IB//9nI/C+krpbWTeih+ER4R2hfmmJQqBDdWNGwUXeYuPJEffmRw==",
+      "path": "system.net.http/4.3.2",
+      "hashPath": "system.net.http.4.3.2.nupkg.sha512"
     }
   }
 }

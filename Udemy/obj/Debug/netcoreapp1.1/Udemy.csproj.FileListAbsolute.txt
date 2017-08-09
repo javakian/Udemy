@@ -17,3 +17,13 @@
 /Users/adamb/Documents/Visual Studio 2017/Projects/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.AssemblyInfo.cs
 /Users/adamb/Documents/Visual Studio 2017/Projects/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.dll
 /Users/adamb/Documents/Visual Studio 2017/Projects/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.pdb
+/Users/adamb/Documents/GitHub/Udemy/Udemy/bin/Debug/netcoreapp1.1/Udemy.deps.json
+/Users/adamb/Documents/GitHub/Udemy/Udemy/bin/Debug/netcoreapp1.1/Udemy.runtimeconfig.json
+/Users/adamb/Documents/GitHub/Udemy/Udemy/bin/Debug/netcoreapp1.1/Udemy.runtimeconfig.dev.json
+/Users/adamb/Documents/GitHub/Udemy/Udemy/bin/Debug/netcoreapp1.1/Udemy.dll
+/Users/adamb/Documents/GitHub/Udemy/Udemy/bin/Debug/netcoreapp1.1/Udemy.pdb
+/Users/adamb/Documents/GitHub/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.csprojResolveAssemblyReference.cache
+/Users/adamb/Documents/GitHub/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.csproj.CoreCompileInputs.cache
+/Users/adamb/Documents/GitHub/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.AssemblyInfo.cs
+/Users/adamb/Documents/GitHub/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.dll
+/Users/adamb/Documents/GitHub/Udemy/Udemy/obj/Debug/netcoreapp1.1/Udemy.pdb

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{80888B90-AFF5-4662-A7E4-EE5CECA43BAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Udemy/InterfaceDesign/WorkflowEngine.cs">
+    <Files>
+      <File FileName="Udemy/Program.cs" Line="30" Column="34" />
+      <File FileName="Udemy/InterfaceDesign/Workflow.cs" Line="19" Column="36" />
+      <File FileName="Udemy/InterfaceDesign/WorkflowEngine.cs" Line="14" Column="29" />
+      <File FileName="Udemy/InterfaceDesign/IActivity.cs" Line="3" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Udemy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
